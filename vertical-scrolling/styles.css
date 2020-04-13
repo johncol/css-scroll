@@ -1,0 +1,38 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+.container {
+  overflow-y: scroll;
+  height: 100vh;
+  scroll-snap-type: y mandatory;
+}
+
+.page {
+  width: 100vw;
+  height: 100vh;
+  scroll-snap-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+.page:nth-child(1) {
+  background-color: rgb(175, 235, 212);
+}
+
+.page:nth-child(2) {
+  background-color: rgb(175, 189, 235);
+}
+
+.page:nth-child(3) {
+  background-color: rgb(235, 175, 200);
+}
+
+.page:nth-child(4) {
+  background-color: rgb(177, 235, 175);
+}
