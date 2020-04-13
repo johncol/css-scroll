@@ -1,4 +1,4 @@
-# Scroll Effects with CSS (a just a bit of JS)
+# Scroll Effects with CSS (and just a bit of vanilla JS)
 
 - [Vertical Scrolling One Page Site](https://johncol.github.io/css-scroll/vertical-scrolling/index.html)
 - [Horizontal Scrolling One Page Site](https://johncol.github.io/css-scroll/horizontal-scrolling/index.html)
