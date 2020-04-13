@@ -2,7 +2,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: #333;
+  color: rgba(152, 152, 152, 0.8);
 }
 
 .container {
@@ -18,7 +18,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 30px;
+  font-size: 120px;
   transition: opacity 1s ease-in-out;
   opacity: 0;
 }

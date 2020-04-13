@@ -1,8 +1,8 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: #333;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgba(152, 152, 152, 0.8);
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 30px;
+  font-size: 150px;
 }
 
 .page:nth-child(1) {
